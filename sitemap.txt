@@ -1,3 +1,4 @@
+http://example.com/gallery/index.html
 http://example.com/donate/index.html
 http://example.com/about/index.html
 http://example.com/tag/index.html
